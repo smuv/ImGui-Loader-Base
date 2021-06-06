@@ -10,9 +10,9 @@
 #include "imgui/imgui_impl_dx9.h"
 #include "imgui/imgui_impl_win32.h"
 
-#define LOADER_BRAND "Loader base"
-#define WINDOW_WIDTH  400
-#define WINDOW_HEIGHT 300
+#define LOADER_BRAND "smuv.cf external free"
+#define WINDOW_WIDTH  184
+#define WINDOW_HEIGHT 124
 
 bool loader_active = true;
 HWND main_hwnd = nullptr;
